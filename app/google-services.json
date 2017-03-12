@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "235553754923",
+    "firebase_url": "https://myapplication-a6469.firebaseio.com",
+    "project_id": "myapplication-a6469",
+    "storage_bucket": "myapplication-a6469.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235553754923:android:c5162f2dfa33ed17",
+        "android_client_info": {
+          "package_name": "com.example.ankit.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235553754923-6l7pt0ar44ne8a36rgqmdvttr86tnigm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmIudFaUx_qr-dcU0C2np6vEtq68jDpOs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
